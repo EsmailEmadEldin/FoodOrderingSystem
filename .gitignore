@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# C# build artifacts
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# IDE
+*.idea/
+*.vscode/
+
+# Logs
+*.log
