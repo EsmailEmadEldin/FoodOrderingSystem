@@ -119,7 +119,7 @@ The application (Phase 2) was built using **C# Windows Forms** connected to SQL 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/FoodOrderingSystem.git
+   git clone https://github.com/esmailemadeldin/FoodOrderingSystem.git
    cd FoodOrderingSystem
    ```
 
