@@ -1,8 +1,7 @@
 # 🍔 Food Ordering System
 
 **Cairo University — Faculty of Computers and Artificial Intelligence**  
-**Course:** Database Systems-1 | **Phase:** 2  
-**Section:** S5 | **TA:** Nour Ayman | **Program:** Special Zayed
+**Course:** Database Systems-1   
 
 ---
 
