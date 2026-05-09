@@ -31,7 +31,10 @@ FoodOrderingSystem/
 │   ├── Report.pdf                   # Phase 2 C# implementation report
 │   └── Phase2_ERD_Report.pdf        # Phase 2 ERD documentation
 └── src/
-    └── (C# Windows Forms source files)
+    ├── form1.cs
+    ├── form2.cs
+    ├── form3.cs
+    └── form5.cs
 ```
 
 ---
