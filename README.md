@@ -145,9 +145,3 @@ The application (Phase 2) was built using **C# Windows Forms** connected to SQL 
 - **Conceptual ERD** — Created in Lucidchart (see docs)
 - **Physical ERD** — Created in PowerDesigner (`.pdm` files in `/diagrams`)
 - **SQL Diagram** — Available in the Phase 2 report PDF
-
----
-
-## 📄 License
-
-This project was submitted as an academic assignment for Cairo University, Faculty of Computers and Artificial Intelligence, Database Systems-1 course.
